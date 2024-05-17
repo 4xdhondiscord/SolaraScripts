@@ -77,7 +77,7 @@ function UILibrary.Main(PrjName,HideKey)
 
 	LeftPart.Name = "LeftPart"
 	LeftPart.Parent = Main
-	LeftPart.BackgroundColor3 = Color3.fromRGB(153, 0, 76)
+	LeftPart.BackgroundColor3 = Color3.fromRGB(27,27, 27)
 	LeftPart.BorderSizePixel = 0
 	LeftPart.Size = UDim2.new(0, 218, 0, 451)
 
@@ -86,7 +86,7 @@ function UILibrary.Main(PrjName,HideKey)
 
 	ProjectName.Name = "ProjectName"
 	ProjectName.Parent = LeftPart
-	ProjectName.BackgroundColor3 = Color3.fromRGB(153, 0, 76)
+	ProjectName.BackgroundColor3 = Color3.fromRGB(27,27 ,27)
 	ProjectName.BackgroundTransparency = 1
 	ProjectName.BorderSizePixel = 0
 	ProjectName.Size = UDim2.new(0, 218, 0, 40)
